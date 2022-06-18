@@ -68,7 +68,7 @@ class HomeFragment : Fragment() {
 //        binding.viewpagerAd.adapter = ImageSliderAdapter(requireContext(), images)
 //        binding.viewpagerAd.orientation = ViewPager2.ORIENTATION_HORIZONTAL
 
-        getMovieData("139375030520de9f27d670cbfc5fdad9", "ko-KR", 1, "KR")
+        getMovieData(getString(R.string.movie_key), "ko-KR", 1, "KR")
 //
 
     }

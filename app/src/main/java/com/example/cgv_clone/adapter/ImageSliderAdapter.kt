@@ -8,7 +8,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.cgv_clone.databinding.ItemSliderBinding
-import com.example.cgv_clone.fragment.HomeFragment
 
 
 class ImageSliderAdapter(

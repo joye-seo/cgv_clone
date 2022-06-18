@@ -2,4 +2,10 @@
     <string name="app_name">cgv_clone</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="movie_key">139375030520de9f27d670cbfc5fdad9</string>
+
+    <string name="naver_client_id">jm0plJu699dS4VvcVnfD</string>
+    <string name="naver_client_secret">_RmySYszUD</string>
+    <string name="naver_client_name">CGV</string>
 </resources>

@@ -133,7 +133,7 @@
                 android:paddingHorizontal="20dp"
                 android:adjustViewBounds="true"
                 android:src="@drawable/btn_naver" />
-            
+
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
